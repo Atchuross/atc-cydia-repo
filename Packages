@@ -1,13 +1,13 @@
-Package: [PMT]Call_of_Duty__Mobile_v1.0.16
+Package: com.codemobilehack.atc
 Name: COD_Mobile modmenu
 Version: 1.0
 Architecture: iphoneos-arm
 Description: 45 + More hack cod mobile
 Maintainer: ATC <c.clauzel@icloud.com>
 Author: ATC <c.clauzel@icloud.com>
-Section: Tweak
+Section: Tweaks
 Depends: 
-Filename: debs/[PMT]Call_of_Duty__Mobile_v1.0.16.deb
+Filename: ./debs/[PMT]Call_of_Duty__Mobile_v1.0.16.deb
 Size: 181796
 MD5sum: 3CE23AAC28591ABBC77E4EAAAB06B8FA
 SHA1: 52B464A7FFFF52EF0C33D8296D959D74333300E7
